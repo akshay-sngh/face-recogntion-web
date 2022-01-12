@@ -10,3 +10,10 @@ face-recognition-web is a web based implementation of my previous project: https
   3. Create flask back-end to retrieves pixels and predicts the face
   4. Record the response in SQLite Database
   5. Display the recorded response real-time in the web portal
+
+# Directory and files description
+  - trainSet: Unprocessed images
+  - dataSet: Images that have undergone preprocessing and used by the classifieer
+  - recognizerData: YAML files used by OpenCV's recognizer
+  - fonts: CSS fonts
+  - EmployeeBase.db: Attendance store
