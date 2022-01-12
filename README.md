@@ -1,9 +1,10 @@
 # About
-Web based implementation of my previous project: https://github.com/akshay-sngh/face-recognition
-  - **Please note that this application only processes the face recognition responses on the server side and doesn't send the response back to the client.**
-  - **Apologies in advance for dumping everything in the single master branch, didn't know what I was doing.**
+Web based implementation of my previous project that uses OpenCV's face recognition, modified to work on web
 
-Web based implementation of my previous project: https://github.com/akshay-sngh/face-recognition
+## Developer Notes:
+  - Link to desktop app: https://github.com/akshay-sngh/face-recognition
+  - This application only processes the face recognition responses on the server side and doesn't send the response back to the client.
+  - Apologies in advance for dumping everything in the single master branch, didn't know what I was doing
 
 ## Changes from the GUI implementation:
   1. Add HTML front-end where users log in to the portal
